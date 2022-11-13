@@ -1,0 +1,9 @@
+/* body {
+  border: 10px solid red;
+} */
+
+:host {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
